@@ -1,0 +1,10 @@
+{
+  "name": "flask-on-glitch",
+  "version": "1.0.0",
+  "description": "Flask app running on Glitch",
+  "main": "app.py",
+  "scripts": {
+    "start": "python3 app.py"
+  },
+  "dependencies": {}
+}
